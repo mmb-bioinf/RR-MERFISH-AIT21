@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+abc_atlas_cache/
+data/
+output/
+*.h5ad
+.DS_Store
+.ipynb_checkpoints/
+*.png
